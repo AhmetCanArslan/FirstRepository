@@ -7,3 +7,7 @@ My first Repo ever
 | Plugin | README |
 | ------ | ------ |
 | Test | test.com |
+
+```sh
+Version denemesi
+```
